@@ -1,8 +1,9 @@
+secrets.js
 # OSX
 #
 build/
 .DS_Store
-secrets.js
+
 
 # Xcode
 #
